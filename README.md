@@ -11,12 +11,11 @@ The objective of this **data analytics initiative** is to provide a **comprehens
 
 **Goals to be Completed:**
 
-- Determine the **most listened-to songs overall** (measured in **minutes listened**).
-- Analyze the performance of the most listened-to songs **monthly**.
-- Identify how many times the most listened-to songs appeared in the **top monthly or weekly lists**.
-- Compare the differences between the **top monthly/weekly lists** and the **overall top list**.
-- **Constant Values vs. Outlier Values**: Are there any **outliers** in the top list?
-- Compare the **overall top list** with the list of **consistently listened-to songs** to identify any differences.
+- Determine the **most listened-to artists/tracks overall** (measured in **minutes listened**).
+- Analyze the **monthly performance** of the artists and tracks that are most listened to overall.
+- Identify how many times the most listened-to artists/tracks appeared in the **top monthly/weekly**.
+- Visualized **how the trends** of the most listened-to artists/tracks **change over the course** of months/weeks.
+- Compare the **overall top list** with the list of artists/tracks that have been **consistently listened to over** weeks/months. Are there any **outliers** in the overall top list?
 
 ---
 
