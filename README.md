@@ -52,11 +52,11 @@ Check out the [notebook](https://) to see the research.
 
 - The Most Listened Artists Overall (measured in msPlayed).
 
-![top_artists_overall](assests/top_artists_overall.png)
+![top_artists_overall](resources/top_artists_overall.png)
 
 - The Most Listened Tracks Overall (measured in msPlayed).
 
-![top_tracks_overall](assests/top_tracks_overall.png)
+![top_tracks_overall](resources/top_tracks_overall.png)
 
 
 #### **Analyze the Over Time performance of the artists and tracks that are most listened to overall.**
@@ -65,15 +65,15 @@ Check out the [notebook](https://) to see the research.
 
 - Performance Of The Most Listened Artists Over Time.
 
-![performance_of_the_most_listened_to_artists](assests/performance_of_the_most_listened_to_artists.png)
+![performance_of_the_most_listened_to_artists](resources/performance_of_the_most_listened_to_artists.png)
 
 - Performance Of The Most Listened Tracks Over Time.
 
-![performance_of_the_most_listened_to_tracks_1](assests/performance_of_the_most_listened_to_tracks_1.png)
-![performance_of_the_most_listened_to_tracks_2](assests/performance_of_the_most_listened_to_tracks_2.png)
-![performance_of_the_most_listened_to_tracks_3](assests/performance_of_the_most_listened_to_tracks_3.png)
-![performance_of_the_most_listened_to_tracks_4](assests/performance_of_the_most_listened_to_tracks_4.png)
-![performance_of_the_most_listened_to_tracks_5](assests/performance_of_the_most_listened_to_tracks_5.png)
+![performance_of_the_most_listened_to_tracks_1](resources/performance_of_the_most_listened_to_tracks_1.png)
+![performance_of_the_most_listened_to_tracks_2](resources/performance_of_the_most_listened_to_tracks_2.png)
+![performance_of_the_most_listened_to_tracks_3](resources/performance_of_the_most_listened_to_tracks_3.png)
+![performance_of_the_most_listened_to_tracks_4](resources/performance_of_the_most_listened_to_tracks_4.png)
+![performance_of_the_most_listened_to_tracks_5](resources/performance_of_the_most_listened_to_tracks_5.png)
 
 #### **Visualized how the trends of the most listened-to artists/tracks change over the course of months/weeks.**
 
@@ -81,21 +81,21 @@ Check out the [notebook](https://) to see the research.
 
 - Performance Of The Most Llistened Artists By Top Monthly Over Time.
 
-![performance_of_the_most_listened_artists_by_top_monthly](assests/performance_of_the_most_listened_artists_by_top_monthly.png)
+![performance_of_the_most_listened_artists_by_top_monthly](resources/performance_of_the_most_listened_artists_by_top_monthly.png)
 
 - Performance Of The Most Llistened Tracks By Top Weekly Over Time.
 
-![performance_of_the_most_listened_tracks_by_top_weekly](assests/performance_of_the_most_listened_tracks_by_top_weekly.png)
+![performance_of_the_most_listened_tracks_by_top_weekly](resources/performance_of_the_most_listened_tracks_by_top_weekly.png)
 
 #### **Compare the overall top list with the list of artists/tracks that have been consistently listened to over weeks/months.** 
 
 ---
 
 - Artists Who Entered And Exited The Top After Using Monthly Charts.
-![artists_who_entered_and_exited_the_top_after_using_monthly_charts](assests/artists_who_entered_and_exited_the_top_after_using_monthly_charts.png)
+![artists_who_entered_and_exited_the_top_after_using_monthly_charts](resources/artists_who_entered_and_exited_the_top_after_using_monthly_charts.png)
 
 - Artists Who Entered And Exited The Top After Using Monthly Charts.
-![tracks_who_entered_and_exited_the_top_after_using_weekly_charts](assests/tracks_who_entered_and_exited_the_top_after_using_weekly_charts.png)
+![tracks_who_entered_and_exited_the_top_after_using_weekly_charts](resources/tracks_who_entered_and_exited_the_top_after_using_weekly_charts.png)
 
 
 ---
