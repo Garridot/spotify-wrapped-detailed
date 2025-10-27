@@ -17,7 +17,8 @@ The objective of this **data analytics initiative** is to provide a **comprehens
 
 
 * **Technical Analysis and Source Code:**
-| Includes the source code, data preprocessing and cleaning steps, function definitions, and all generated graphs. |
+
+|Includes the source code, data preprocessing and cleaning steps, function definitions, and all generated graphs. |
 | :--- | 
 | [**Review The Jupyter Notebook**](analysis.ipynb) |
 
