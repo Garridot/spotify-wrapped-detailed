@@ -1,0 +1,542 @@
+{
+    "Thee Michelle Gun Elephant": {
+        "artist_id": "2DBcgbvakjiv4Yi9bRyjVX",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebca7599a1fd1395952e78411b",
+        "genres": [
+            "j-rock",
+            "garage rock",
+            "j-pop",
+            "melodic hardcore"
+        ]
+    },
+    "Radiohead": {
+        "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
+        "genres": [
+            "art rock",
+            "alternative rock"
+        ]
+    },
+    "Patricio Rey y sus Redonditos de Ricota": {
+        "artist_id": "6byQKddO1b34lXC2ZEjehQ",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb78f40b5153bfcbd5e7a55432",
+        "genres": [
+            "argentine rock"
+        ]
+    },
+    "David Bowie": {
+        "artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
+        "genres": [
+            "glam rock",
+            "art rock"
+        ]
+    },
+    "The Beatles": {
+        "artist_id": "3WrFJ7ztbogyGnTHbHJFl2",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
+        "genres": [
+            "classic rock",
+            "psychedelic rock"
+        ]
+    },
+    "Soda Stereo": {
+        "artist_id": "7An4yvF7hDYDolN4m5zKBp",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebe17b9f28e68b545e075ba35f",
+        "genres": [
+            "rock en español",
+            "latin rock",
+            "argentine rock",
+            "latin alternative"
+        ]
+    },
+    "The Birthday": {
+        "artist_id": "16AVsBqzmIZTNHd0eX8VbK",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb916d2275e3b91d069e6e7683",
+        "genres": [
+            "gothic rock",
+            "gothic metal",
+            "industrial rock",
+            "industrial",
+            "darkwave"
+        ]
+    },
+    "Gustavo Cerati": {
+        "artist_id": "1QOmebWGB6FdFtW7Bo3F0W",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebee0456d8afc4c63dff458587",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "rock en español",
+            "latin alternative"
+        ]
+    },
+    "The Smiths": {
+        "artist_id": "3yY2gUcIsjMr8hjo51PoJ8",
+        "artist_image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
+        "genres": [
+            "new wave",
+            "madchester",
+            "jangle pop"
+        ]
+    },
+    "Blur": {
+        "artist_id": "7MhMgCo0Bl0Kukl93PZbYS",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb00620d736644d2359ce99430",
+        "genres": [
+            "britpop",
+            "madchester",
+            "alternative rock"
+        ]
+    },
+    "John Lennon": {
+        "artist_id": "4x1nvY2FN8jxqAFA0DA02H",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebe336079626f2a1be7456486c",
+        "genres": [
+            "christmas"
+        ]
+    },
+    "toe": {
+        "artist_id": "4AGwPDdh1y8hochNzHy5HC",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb1fd073cc30283438f8512ba6",
+        "genres": []
+    },
+    "Oasis": {
+        "artist_id": "2DaxqgrOhkeH0fpeiQq2f4",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebb4ddbc39706ef0f2ae0f7c9b",
+        "genres": [
+            "britpop",
+            "madchester"
+        ]
+    },
+    "Kendrick Lamar": {
+        "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+        "genres": [
+            "hip hop",
+            "west coast hip hop"
+        ]
+    },
+    "Paul McCartney": {
+        "artist_id": "4STHEaNw4mPZ2tzheohgXB",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb03bf2fe26e397122faa3d323",
+        "genres": []
+    },
+    "Indio Solari": {
+        "artist_id": "0nUGkxUncFeXt0Dr0hhrc4",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebe6382ccb2e2495899227340b",
+        "genres": [
+            "argentine rock"
+        ]
+    },
+    "Nina Simone": {
+        "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
+        "genres": [
+            "vocal jazz",
+            "jazz blues",
+            "soul",
+            "soul jazz",
+            "jazz",
+            "blues"
+        ]
+    },
+    "Sumo": {
+        "artist_id": "1Yk912s46hRDu0aEvLG8WO",
+        "artist_image": "https://i.scdn.co/image/ab67616d0000b27307617d85eb1247831991d703",
+        "genres": []
+    },
+    "Gorillaz": {
+        "artist_id": "3AA28KZvwAUcZuOKwyblJQ",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebdd5b57b40cf2aaeccd07835e",
+        "genres": []
+    },
+    "Nujabes": {
+        "artist_id": "3Rq3YOF9YG9YfCWD4D56RZ",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb57f19d2f179b00207bfb3155",
+        "genres": [
+            "jazz rap"
+        ]
+    },
+    "Luis Alberto Spinetta": {
+        "artist_id": "1MuQ2m2tg7naeRGAOxYZer",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebe1988a1a730ae50728967a16",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "rock en español"
+        ]
+    },
+    "Bob Dylan": {
+        "artist_id": "74ASZWbe4lXaubB36ztrGX",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb791742524609864273747ef5",
+        "genres": [
+            "folk rock",
+            "folk",
+            "singer-songwriter",
+            "roots rock",
+            "country rock"
+        ]
+    },
+    "Takashi Ohmama": {
+        "artist_id": "6QnCjiIm1AvYTRQNRGYgOO",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebeca443e63e74a42eacf3b5bf",
+        "genres": [
+            "anime"
+        ]
+    },
+    "Franz Ferdinand": {
+        "artist_id": "0XNa1vTidXlvJ2gHSsRi4A",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb69ecfa7557856564c968640d",
+        "genres": [
+            "indie rock"
+        ]
+    },
+    "The Rolling Stones": {
+        "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8",
+        "genres": [
+            "classic rock",
+            "rock"
+        ]
+    },
+    "Pulp": {
+        "artist_id": "36E7oYfz3LLRto6l2WmDcD",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb2a7e3dfda16364548dfdc915",
+        "genres": [
+            "britpop",
+            "madchester"
+        ]
+    },
+    "The Cure": {
+        "artist_id": "7bu3H8JO7d0UbMoVzbo70s",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebdd427c765c409ec02dc3a868",
+        "genres": [
+            "new wave",
+            "post-punk",
+            "gothic rock",
+            "darkwave"
+        ]
+    },
+    "Sambomaster": {
+        "artist_id": "5ydDSP9qSxEOlHWnpbblFB",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebd771169ec8eac94361770f78",
+        "genres": [
+            "j-rock",
+            "anime",
+            "j-pop"
+        ]
+    },
+    "ROSSO": {
+        "artist_id": "1j4W3yOBthwGj4wWrGPtfA",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb8d644203c97c44efcc8bce86",
+        "genres": [
+            "cedm",
+            "christian",
+            "hardstyle"
+        ]
+    },
+    "George Harrison": {
+        "artist_id": "7FIoB5PHdrMZVC3q2HE5MS",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb0d50c5a88d44de4a2dc60dc1",
+        "genres": []
+    },
+    "Sunny Day Service": {
+        "artist_id": "4cSyPcpldERtF4eL3NB9dn",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb1f83adeba1546c192fb9d29d",
+        "genres": [
+            "shibuya-kei",
+            "japanese indie",
+            "j-rock",
+            "city pop"
+        ]
+    },
+    "Invisible": {
+        "artist_id": "3FjdJbt6Myq32uv7P4owM1",
+        "artist_image": "https://i.scdn.co/image/ab67616d0000b2734d52291a3146f5aea6013a69",
+        "genres": [
+            "argentine rock",
+            "progressive rock",
+            "latin rock"
+        ]
+    },
+    "Los Fundamentalistas del Aire Acondicionado": {
+        "artist_id": "1SKA2QwV2fwGgoMlx16FXO",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb5404e430ef20392edc9c28d9",
+        "genres": [
+            "argentine rock"
+        ]
+    },
+    "Jamiroquai": {
+        "artist_id": "6J7biCazzYhU3gM9j1wfid",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb7e6dca959714339b69e9718d",
+        "genres": [
+            "acid jazz"
+        ]
+    },
+    "Buena Vista Social Club": {
+        "artist_id": "11kBu957KTYoAltZHDm8gW",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebe35db4d5803c5a4c77dd44db",
+        "genres": [
+            "son cubano",
+            "latin jazz",
+            "latin",
+            "bolero"
+        ]
+    },
+    "The Strokes": {
+        "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089",
+        "genres": [
+            "garage rock",
+            "indie rock",
+            "alternative rock"
+        ]
+    },
+    "Queen": {
+        "artist_id": "6DSvtdQSth5XSjhA7TlKAq",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb796a99fb677050969b07a963",
+        "genres": []
+    },
+    "The Killers": {
+        "artist_id": "0C0XlULifJtAgn6ZNCW2eu",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a",
+        "genres": [
+            "alternative rock"
+        ]
+    },
+    "Marvin Gaye": {
+        "artist_id": "3koiLjNrgRTNbOwViDipeA",
+        "artist_image": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
+        "genres": [
+            "motown",
+            "classic soul",
+            "soul",
+            "northern soul",
+            "quiet storm"
+        ]
+    },
+    "JoaquÃ­n Sabina": {},
+    "IDLES": {
+        "artist_id": "75mafsNqNE1WSEVxIKuY5C",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb15a2ab2d3913d5b998e93e71",
+        "genres": [
+            "post-punk",
+            "punk",
+            "noise rock"
+        ]
+    },
+    "Arctic Monkeys": {
+        "artist_id": "7Ln80lUS6He07XvHI8qqHH",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+        "genres": [
+            "indie",
+            "garage rock"
+        ]
+    },
+    "YUSUKE CHIBA - SNAKE ON THE BEACH -": {
+        "artist_id": "4kHNeHQ5nA9HDRVXXhR308",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebab1d79e2cec08ec7582279f0",
+        "genres": []
+    },
+    "MASS OF THE FERMENTING DREGS": {
+        "artist_id": "14d5KCX9nprUcxnKIShrr1",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb53a61972ed2f11fb3e690dfe",
+        "genres": [
+            "j-rock",
+            "japanese indie",
+            "shoegaze",
+            "math rock",
+            "shibuya-kei"
+        ]
+    },
+    "The Doors": {
+        "artist_id": "22WZ7M8sxp5THdruNY3gXt",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb440959e022afc20e819050bd",
+        "genres": [
+            "psychedelic rock",
+            "classic rock",
+            "acid rock"
+        ]
+    },
+    "Vaundy": {
+        "artist_id": "2IUl3m1H1EQ7QfNbNWvgru",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebf6be169899c276073de46a1b",
+        "genres": [
+            "j-pop",
+            "japanese indie",
+            "j-rock",
+            "anime"
+        ]
+    },
+    "Morrissey": {
+        "artist_id": "3iTsJGG39nMg9YiolUgLMQ",
+        "artist_image": "https://i.scdn.co/image/cdbc12a6b10dbab32ed73d4979183e95f46ebeb2",
+        "genres": [
+            "britpop",
+            "madchester",
+            "new wave",
+            "jangle pop"
+        ]
+    },
+    "El MatÃ³ a un PolicÃ­a Motorizado": {},
+    "King Crimson": {
+        "artist_id": "7M1FPw29m5FbicYzS2xdpi",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb7c1c2fcf5a73dbfa60a40a18",
+        "genres": [
+            "progressive rock",
+            "art rock",
+            "psychedelic rock"
+        ]
+    },
+    "Kinokoteikoku": {
+        "artist_id": "61H9d7hbIfFNxJJQmIL9AJ",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb5affe21a8dff00db89e8c62e",
+        "genres": [
+            "japanese indie",
+            "shoegaze",
+            "j-rock",
+            "math rock",
+            "dream pop"
+        ]
+    },
+    "Silvio RodrÃ­guez": {},
+    "Creedence Clearwater Revival": {
+        "artist_id": "3IYUhFvPQItj6xySrBmZkd",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebd2e2b04b7ba5d60b72f54506",
+        "genres": [
+            "classic rock",
+            "southern rock",
+            "country rock"
+        ]
+    },
+    "tricot": {
+        "artist_id": "5IKKS7LhpdlmMwqIagqf3f",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb65ac07cd0fb68b3494957278",
+        "genres": [
+            "math rock",
+            "j-rock",
+            "japanese indie"
+        ]
+    },
+    "cero": {
+        "artist_id": "5KpmLKI7ktzNzQL13J95Pf",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebe0c50964f31f3de5c7dbaaa8",
+        "genres": [
+            "boom bap"
+        ]
+    },
+    "The Clash": {
+        "artist_id": "3RGLhK1IP9jnYFH4BRFJBS",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb2fc4d22f2e060511db2ae971",
+        "genres": [
+            "punk"
+        ]
+    },
+    "Lou Rawls": {
+        "artist_id": "1zJBFCev9UwOMcrZsLi2od",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb2b5fe134b2f32477d117a3e5",
+        "genres": [
+            "philly soul",
+            "soul blues",
+            "classic soul"
+        ]
+    },
+    "haruka nakamura": {
+        "artist_id": "52R2tXlJMDDDYcpBSnn3k4",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebf1a842d86567bde31f842005",
+        "genres": [
+            "ambient folk"
+        ]
+    },
+    "re:plus": {
+        "artist_id": "4xtmhwkXcI1bfDZNzQHR8F",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb84d174e9dfa886cb09f085e9",
+        "genres": [
+            "worship",
+            "christian"
+        ]
+    },
+    "Virus": {
+        "artist_id": "0G7A5LzQAs2egiQl7hO5tV",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb9d7dece38c0601490a8ed2ea",
+        "genres": [
+            "latin rock",
+            "argentine rock",
+            "rock en español"
+        ]
+    },
+    "Michael Jackson": {
+        "artist_id": "3fMbdgg4jU18AjLCKBhRSm",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
+        "genres": []
+    },
+    "Black Pumas": {
+        "artist_id": "6eU0jV2eEZ8XTM7EmlguK6",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb39d27eaedd0adde305e9c98f",
+        "genres": [
+            "retro soul"
+        ]
+    },
+    "Sui Generis": {
+        "artist_id": "5lCqW8vcd4TyTHzGIuKdH8",
+        "artist_image": "https://i.scdn.co/image/ab67616d0000b273cbbc34888dc24063d2ce5713",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "trova",
+            "nueva trova",
+            "rock en español"
+        ]
+    },
+    "Kanye West": {
+        "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+        "genres": [
+            "rap"
+        ]
+    },
+    "Stevie Wonder": {
+        "artist_id": "7guDJrEfX3qb6FEbdPA5qi",
+        "artist_image": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
+        "genres": [
+            "motown",
+            "classic soul",
+            "soul"
+        ]
+    },
+    "Bill Withers": {
+        "artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+        "artist_image": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
+        "genres": [
+            "soul",
+            "classic soul",
+            "motown"
+        ]
+    },
+    "MONO NO AWARE": {
+        "artist_id": "5vFyh7GL35ShoJWrXL9aUR",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb77044def4be62211510e3c11",
+        "genres": [
+            "japanese indie",
+            "j-rock"
+        ]
+    },
+    "Ichiko Aoba": {
+        "artist_id": "6ignRjbPmLvKdtMLj9a5Xs",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5eb0492fac92c61b57890860332",
+        "genres": [
+            "japanese indie",
+            "shibuya-kei"
+        ]
+    },
+    "SUPER BEAVER": {
+        "artist_id": "0SMhG4gXGD4gzLMMz08cQU",
+        "artist_image": "https://i.scdn.co/image/ab6761610000e5ebeb68a0c673c995d5328edf42",
+        "genres": [
+            "anime",
+            "j-rock",
+            "j-pop"
+        ]
+    }
+}
